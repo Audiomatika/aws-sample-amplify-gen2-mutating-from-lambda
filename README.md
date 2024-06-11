@@ -14,7 +14,7 @@ Lambda is triggered to update items in DynamoDB via DynamoDB Streams.
 ### 1. Clone this project
 
 ```shell
-git clone https://
+git clone https://github.com/msysh/aws-sample-amplify-gen2-mutating-from-lambda.git
 ```
 
 ### 2. Install packages
